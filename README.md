@@ -5,15 +5,15 @@
    ` npm i shadowman --save`
   
   ````
-  import { ShadowMan} from 'ShadowMan';
-  ShadowMan ({
+  import { shadowman} from 'shadowman';
+  shadowman ({
       shadow_type: 'soft',
       padding:false
   });
 
   ```
 
-  Options
+ # Options
 
   ShadowMan supports 2 options,both of which are optional:
 
