@@ -1,8 +1,8 @@
  # What is this?
-  A npm pacakge for non-designers to get perfect shadows every time for their images.
+  A npm package for non-designers to get perfect shadows every time for their images.
 
   # Installations
-   ` npm i ShadowMan --save`
+   ` npm i shadowman --save`
   
   ````
   import { ShadowMan} from 'ShadowMan';
@@ -13,7 +13,7 @@
 
   ```
 
-  ## Options
+  Options
 
   ShadowMan supports 2 options,both of which are optional:
 
